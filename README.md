@@ -110,8 +110,18 @@ DNSRecon identified several DNS records associated with the domain. These includ
 1. I used Windows `ipconfig` to identify my local IP address and subnet configuration.
 2. I opened **Zenmap** and entered my local subnet as the target.
 3. I performed a **Ping Scan** to identify active devices on the network.
-4. I recorded the discovered hosts together with their IP and MAC address information.
-5. I used the **Topology** tab in Zenmap to visualize the discovered network devices and created a network topology based on the scan results.
+4. I recorded the discovered hosts together with their IP and MAC address information.The example results provided in the practical identified six live hosts:
+
+   
+•	192.168.0.1
+•	192.168.0.104
+•	192.168.0.110
+•	192.169.0.119
+•	192.168.0.129
+•	192.168.0.136
+  
+
+6. I used the **Topology** tab in Zenmap to visualize the discovered network devices and created a network topology based on the scan results.
 
 > **Note:** The IP addresses, number of hosts, and network topology in this section should match the actual results obtained from my local network scan.
 
