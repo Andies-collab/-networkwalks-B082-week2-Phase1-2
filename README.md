@@ -115,6 +115,25 @@ DNSRecon identified several DNS records associated with the domain. These includ
 
 > **Note:** The IP addresses, number of hosts, and network topology in this section should match the actual results obtained from my local network scan.
 
+
+<img width="680" height="693" alt="WK2-PM1- Results of whois" src="https://github.com/user-attachments/assets/a11ae8fb-81fc-43a8-9755-37f88c54bb87" />
+
+<img width="652" height="414" alt="WK2-PM1-Results of whatweb" src="https://github.com/user-attachments/assets/b8fcbe8a-06f9-448d-a07b-136f0ffa92f4" />
+
+<img width="276" height="144" alt="WK2-PM1-Results of nslookup" src="https://github.com/user-attachments/assets/9b56f4d9-ad19-479b-a60b-368d73615b40" />
+
+<img width="666" height="339" alt="WK2-PM1-Results of curl-I https" src="https://github.com/user-attachments/assets/04e1c40d-30d2-4122-8d62-01cc8dff1f6e" />
+
+<img width="658" height="380" alt="WK2-PM1 Results of wafw00f" src="https://github.com/user-attachments/assets/0f80e9ad-784c-44fd-8403-8b859b4dd293" />
+
+<img width="653" height="514" alt="WK2-PM1- Results of dnsrecon" src="https://github.com/user-attachments/assets/12a4953d-a1c2-4e62-b2cb-f57620695aec" />
+
+
+
+
+
+
+
 ## Key Findings & Risk Summary
 
 | # | Finding                                                                                                                 | Risk Level |
