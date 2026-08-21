@@ -115,18 +115,37 @@ DNSRecon identified several DNS records associated with the domain. These includ
 
 > **Note:** The IP addresses, number of hosts, and network topology in this section should match the actual results obtained from my local network scan.
 
+--
+## Conclusion
+
+This Week 2 project gave me practical experience in **footprinting, reconnaissance, and local network scanning**. By using tools such as WHOIS, WhatWeb, Nslookup, Curl, Wafw00f, and DNSRecon, I was able to collect and analyze different types of information about a web domain. Using Zenmap, I also gained experience identifying active devices and understanding the structure of a local network.
+
+Overall, the activities helped me understand how reconnaissance and network scanning are used as important steps in cybersecurity. I also learned the importance of documenting findings clearly, identifying potential security risks, and performing security testing only within an authorized scope. This project improved my practical skills and gave me a better foundation for further cybersecurity and ethical hacking activities.
+
+
 
 <img width="680" height="693" alt="WK2-PM1- Results of whois" src="https://github.com/user-attachments/assets/a11ae8fb-81fc-43a8-9755-37f88c54bb87" />
 
+--
 <img width="652" height="414" alt="WK2-PM1-Results of whatweb" src="https://github.com/user-attachments/assets/b8fcbe8a-06f9-448d-a07b-136f0ffa92f4" />
-
+--
 <img width="276" height="144" alt="WK2-PM1-Results of nslookup" src="https://github.com/user-attachments/assets/9b56f4d9-ad19-479b-a60b-368d73615b40" />
 
+--
 <img width="666" height="339" alt="WK2-PM1-Results of curl-I https" src="https://github.com/user-attachments/assets/04e1c40d-30d2-4122-8d62-01cc8dff1f6e" />
 
+--
 <img width="658" height="380" alt="WK2-PM1 Results of wafw00f" src="https://github.com/user-attachments/assets/0f80e9ad-784c-44fd-8403-8b859b4dd293" />
 
+--
 <img width="653" height="514" alt="WK2-PM1- Results of dnsrecon" src="https://github.com/user-attachments/assets/12a4953d-a1c2-4e62-b2cb-f57620695aec" />
+
+--
+<img width="669" height="651" alt="nmap-pingscan" src="https://github.com/user-attachments/assets/3ee4bb85-d84e-4c4f-975b-e27af4bdfd05" />
+
+--
+
+<img width="1313" height="684" alt="nmap-topology" src="https://github.com/user-attachments/assets/450b735c-c2f9-45ac-bdc2-c8896296f284" />
 
 
 
@@ -169,22 +188,8 @@ Based on the findings obtained during the activities, the following security imp
 
 9. **Perform security testing with authorization —** reconnaissance, scanning and further vulnerability testing should only be performed on systems and networks where appropriate permission has been provided.
 
-## Repository Contents
 
-```text
-├── README.md
-├── Penetration_Testing_Report.docx
-└── evidence/
-    ├── whois/
-    ├── whatweb/
-    ├── nslookup/
-    ├── curl/
-    ├── wafw00f/
-    ├── dnsrecon/
-    └── zenmap/
-```
 
-The `evidence/` directory contains screenshots and supporting evidence from the individual activities.
 
 ## Disclaimer
 
